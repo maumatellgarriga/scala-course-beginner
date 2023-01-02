@@ -1,0 +1,36 @@
+2022.07.01 11:50:18 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/miriamaumatellgarriga/Documents/formació/myproject-udemy-scala/.metals/lsp.trace.json or /Users/miriamaumatellgarriga/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.07.01 11:50:19 INFO  logging to file /Users/miriamaumatellgarriga/Documents/formació/myproject-udemy-scala/.metals/metals.log
+2022.07.01 11:50:19 INFO  Started: Metals version 0.11.6 in workspace '/Users/miriamaumatellgarriga/Documents/formació/myproject-udemy-scala' for client Visual Studio Code 1.64.2.
+2022.07.01 11:50:20 INFO  time: initialize in 0.88s
+2022.07.01 11:50:20 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.01 11:50:20 WARN  Build server is not auto-connectable.
+2022.07.01 11:50:23 WARN  no build target for: /Users/miriamaumatellgarriga/Documents/formació/myproject-udemy-scala/src/main/scala/lectures/part2oop/OOBasics.scala
+2022.07.01 11:50:26 INFO  no build target found for /Users/miriamaumatellgarriga/Documents/formació/myproject-udemy-scala/src/main/scala/lectures/part2oop/OOBasics.scala. Using presentation compiler with project's scala-library version: 3.1.2
+2022.07.01 11:50:27 WARN  no build target for: /Users/miriamaumatellgarriga/Documents/formació/myproject-udemy-scala/src/main/scala/lectures/part2oop/MethodNotations.scala
+2022.07.01 11:50:29 WARN  no build target for: /Users/miriamaumatellgarriga/Documents/formació/myproject-udemy-scala/src/main/scala/lectures/part2oop/OOBasics.scala
+2022.07.01 11:50:30 WARN  no build target for: /Users/miriamaumatellgarriga/Documents/formació/myproject-udemy-scala/src/main/scala/lectures/part2oop/MethodNotations.scala
+2022.07.01 11:50:30 INFO  time: code lens generation in 3.08s
+2022.07.01 11:50:30 INFO  time: code lens generation in 3.08s
+2022.07.01 11:50:30 INFO  time: code lens generation in 6.23s
+2022.07.01 11:50:30 INFO  time: code lens generation in 6.23s
+2022.07.01 11:51:04 INFO  shutting down Metals
+2022.07.01 11:54:48 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/miriamaumatellgarriga/Documents/formació/myproject-udemy-scala/.metals/lsp.trace.json or /Users/miriamaumatellgarriga/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.07.01 11:54:48 INFO  logging to file /Users/miriamaumatellgarriga/Documents/formació/myproject-udemy-scala/.metals/metals.log
+2022.07.01 11:54:48 INFO  Started: Metals version 0.11.6 in workspace '/Users/miriamaumatellgarriga/Documents/formació/myproject-udemy-scala' for client Visual Studio Code 1.64.2.
+2022.07.01 11:54:49 INFO  time: initialize in 0.68s
+2022.07.01 11:54:49 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.01 11:54:49 WARN  Build server is not auto-connectable.
+2022.07.01 11:54:49 INFO  skipping build import with status 'Requested'
+2022.07.01 11:54:50 WARN  no build target for: /Users/miriamaumatellgarriga/Documents/formació/myproject-udemy-scala/src/main/scala/lectures/part2oop/MethodNotations.scala
+2022.07.01 11:54:52 INFO  no build target found for /Users/miriamaumatellgarriga/Documents/formació/myproject-udemy-scala/src/main/scala/lectures/part2oop/MethodNotations.scala. Using presentation compiler with project's scala-library version: 3.1.2
+2022.07.01 11:54:52 WARN  no build target for: /Users/miriamaumatellgarriga/Documents/formació/myproject-udemy-scala/src/main/scala/lectures/part2oop/OOBasics.scala
+Jul 01, 2022 11:54:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+2022.07.01 11:54:52 WARN  no build target for: /Users/miriamaumatellgarriga/Documents/formació/myproject-udemy-scala/src/main/scala/lectures/part2oop/MethodNotations.scala
+2022.07.01 11:54:54 INFO  time: code lens generation in 1.57s
+2022.07.01 11:54:54 INFO  time: code lens generation in 1.57s
+2022.07.01 11:54:54 INFO  time: code lens generation in 1.97s
+2022.07.01 11:54:54 INFO  time: code lens generation in 1.97s
+2022.07.01 11:54:54 INFO  time: code lens generation in 4.15s
+2022.07.01 11:54:54 INFO  time: code lens generation in 4.15s
+2022.07.01 12:06:30 INFO  shutting down Metals
